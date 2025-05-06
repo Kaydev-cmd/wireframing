@@ -60,3 +60,21 @@
     </li>
   </ol>
 </section>
+
+<section>
+  <h1>Key Elements in a Wireframe</h1>
+  <ul>
+    <li><strong>Layout Structure</strong>: Defines the arrangement of elements on the page.</li>
+    <li><strong>Navigation</strong>: Shows how users will move through the site or application.</li>
+    <li><strong>Contect Placement</strong>: Indicates where text, images, and other content will be positioned.</li>
+    <li><strong>Functionality</strong>: Outlines key functionalities and interactions.</li>
+  </ul>
+</section>
+
+<section>
+  <h1>Types of Wireframes</h1>
+  <ul>
+    <li><strong>Low-Fidelity Wireframes</strong>: Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.</li>
+    <li><strong>High-Fidelity Wireframes</strong>: More detailed and refined versions, often closer to the final design, including more specific layout and design elements.</li>
+  </ul>
+</section>
