@@ -78,3 +78,44 @@
     <li><strong>High-Fidelity Wireframes</strong>: More detailed and refined versions, often closer to the final design, including more specific layout and design elements.</li>
   </ul>
 </section>
+
+<section>
+  <h1>Popular Wireframing Tools</h1>
+  <ol>
+    <li><strong>Figma</strong> (Highly Recommended) </li>
+    <li><strong>Adobe XD</strong></li>
+    <li><strong>Sketch</strong></li>
+    <li><strong>Balsamiq</strong></li>
+    <li><strong>Axure RP</strong></li>
+    <li><strong>Wireframe.cc</strong></li>
+    <li><strong>Lucidchart</strong></li>
+  </ol>
+    <div>
+    <h2>Why Figma Stands Out for Wireframing</h2>
+      <p>
+        <strong>Figma</strong> is a web-based interface design tool that has gained massive popularity among designers and teams due to its collaborative features and ease of use.
+      </p>
+      <h3>
+        Key Features:
+      </h3>
+      <ul>
+        <li><strong>Real-time Collaboration</strong>: Multiple users can work on the same wireframe simultaneously, ideal for teams.</li>
+        <li><strong>Cloud-Based Access</strong>: No need for software installation; works across platforms via your browser.</li>
+        <li><strong>Reusable Components</strong>: Create design systems or use existing UI kits to speed up your wireframing.</li>
+        <li><strong>Version Histroy</strong>: Easily revert to previous design states.</li>
+        <li><strong>Commenting System</strong>: Stakeholders and team members can leave feedback directly on the design.</li>
+        <li><strong>Prototyping Integration</strong>: Quickly turn wireframes into clickable prototypes without switching tools.</li>
+      </ul>
+      <h3>
+        Why It's Great for Wireframing:
+      </h3>
+      <ul>
+        <li>Offers <strong>low-fidelity and high-fidelity options</strong> in one place.</li>
+        <li>Templates and community-made assets help beginners get started quickly.</li>
+        <li>Ideal for <strong>remote teams</strong>, enabling seamless handoff between design and developement.</li>
+      </ul>
+      <p>
+        Figma is especially usseful for fast-paced environments where <strong>iteration, feedback, and collaboration</strong> are essential. Its intuitive interface makes it beginner-friendly while still pwerful enough for professional workflows.
+      </p>
+    </div>
+</section>
