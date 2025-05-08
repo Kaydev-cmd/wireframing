@@ -189,3 +189,73 @@
       </ol>
     </div>
 </section>
+
+<section>
+  <h1>Why Use Figma for Wireframing?</h1>
+  <p><strong>Figma</strong> is ideal because:</p>
+  <ul>
+    <li>It's cloud-based and supports real-time collaboration.</li>
+    <li>Stakeholders can comment directly on elements.</li>
+    <li>Components (like listing cards or filters) can be reused across pages.</li>
+    <li>It integrates with design systems and dev tools for easy handoff.</li>
+  </ul>
+</section>
+
+<section>
+  <h1>Real-World Scenario: Airbnb's "Flexible Dates" Feature</h1>
+  <p><strong>The Challenge:</strong></p>
+  <p>Airbnb wanted to introduce a <strong>"Flexible Dates"</strong> feature for users who didn't have fixed travel dates but were browsing casually.</p>
+  <p>In the initial wireframes:</p>
+  <ul>
+    <li>Designers placed the <strong>"Flexible Dates"</strong> toggle beneath the standard date picker.</li>
+    <li>
+      During wireframe review sessions with the UX team and stakeholders, concerns were raised:
+      <ul>
+        <li>Would users even notice it in that position?</li>
+        <li>Could it confuse users who had already entered fixed dates?</li>
+      </ul>
+    </li>
+  </ul>
+</section>
+
+<section>
+  <h1>Usability Issue Identified:</h1>
+  <p>Wireframe testing with user feedback revealed:</p>
+  <ul>
+    <li>Users often skipped over the toggle entirely.</li>
+    <li>Some assumed it would override their selected dates automatically, causing frustration.</li>
+    <li>Others didn't understand what "flexible" really meant, was it cheaper, broader, or just a different calender?</li>
+  </ul>
+</section>
+
+<section>
+  <h1>Resolution:</h1>
+  <p>Thanks to the early-stage wireframe, the team:</p>
+  <ul>
+    <li>Moved the <strong>"Flexible Dates"</strong> option above the calender to increase visibility.</li>
+    <li>Added a small tooltip with a short description: "Explore stays for weekends, weeks, or months with no exact dates".</li>
+    <li>Reworded the label to <strong>"I'm flexible"</strong> to sound more user-driven.</li>
+  </ul>
+</section>
+
+<section>
+  <h1>Impact on the Final Product:</h1>
+  <ul>
+    <li>User engagement with the feature increased significantly during A/B testing.</li>
+    <li>Fewer users dropped off during the search flow.</li>
+    <li>The clear, early wireframes allowed design iterations without wasting dev hours.</li>
+  </ul>
+</section>
+
+<section>
+  <h1>Conclusion: The Role of Wireframing</h1>
+  <p>This scenario shows how <strong>wireframing catches usability issues</strong> early, before any code is written. It helps teams:</p>
+  <ul>
+    <li>Test multiple layouts quickly.</li>
+    <li>Spot confusing elements or unclear language.</li>
+    <li>Align stakeholders and iterate faster.</li>
+  </ul>
+  <p>
+    <strong>Wireframes are essential to designing user-friendly, intuitive products that meet real user needs</strong>
+  </p>
+</section>
