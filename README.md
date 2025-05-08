@@ -170,6 +170,22 @@
           <li>What content must appear (e.g, pricing, ratings)</li>
         </ul>
         <p>For example, A stakeholder can comment, "Can we highlight Superhost listings with a badge?" directly on a Figma wireframe.</p>
+        <li>
+          <strong>Ensure Clear Developer Handoff</strong>
+        </li>
+        <p>Developers get a clear breakdown of:</p>
+        <ul>
+          <li>Element positioning (e.g., map on right, listings on left).</li>
+          <li>Interaction flows (e.g., clicking a card opens modal or new page).</li>
+        </ul>
+        <li>
+          <strong>Drive Usability Testing Early</strong>
+        </li>
+        <p>Wireframes let UX teams run tests before final designs:</p>
+        <ul>
+          <li>"Can users easily find pet-friendly stays?"</li>
+          <li>"Do users understand the total price layout?"</li>
+        </ul>
       </ol>
     </div>
 </section>
