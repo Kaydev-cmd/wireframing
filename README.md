@@ -119,3 +119,57 @@
       </p>
     </div>
 </section>
+
+<section>
+  <h1>Benefits of Wireframing in Software Developement</h1>
+  <p>
+    Wireframes are <strong>visual blueprints</strong> of a user interface that guide the design process and act as a communication bridge between designers, developers, and stakeholders. They map out the structure and functionality of a page before any visual design or coding begins.
+  </p>
+  <div>
+    <h2>How Wireframes Guide the Design Process</h2>
+    <ol>
+      <li>
+        <strong>Clarify Structure Early</strong>
+        <p>
+          Wireframes help teams understand where content and features appear. For example, in a Booking Management System like the on described, a wireframe would show:
+          <ul>
+            <li>A search bar at the top (location, dates, guests).</li>
+            <li>A map section on one side and listing cards on the other.</li>
+            <li>Filters for price, amenities, and property type.</li>
+          </ul>
+        </p>  
+      </li>
+              <p>This layout guides the entire team on how users search and browse properties, before any colors, fonts, or images are added. </p>
+      <li>
+        <strong>Support UX Decision-Making</strong>
+        <p>Wireframes allow UX designers to test things like:</p>
+        <ul>
+          <li>Should filters be collapsible?</li>
+          <li>How much info should each listing preview show?</li>
+          <li>Where should the "Save" or "Heart" button be?</li>
+        </ul>
+      </li>
+      <li>
+        <strong>Low-Fidelity = High-Speed Iteration</strong>
+        <p>Instead of prototyping a full UI, teams can sketch several layout options quickly/ For Airbnb, this might include different ways to display listing details or manage mobile responsiveness.</p>
+      </li>
+    </ol>
+  </div>
+</section>
+
+<section>
+  <h1>How Wireframes Facilitate Team Communication</h1>
+    <div>
+      <ol>
+        <li>
+          <strong>Align Stakeholders on Functionality</strong>
+        </li>
+        <p>Product managers, designers, and engineers all use the wireframe to agree on:</p>
+        <ul>
+          <li>What users can do on a screen (e.g., save listings, view photos).</li>
+          <li>What content must appear (e.g, pricing, ratings)</li>
+        </ul>
+        <p>For example, A stakeholder can comment, "Can we highlight Superhost listings with a badge?" directly on a Figma wireframe.</p>
+      </ol>
+    </div>
+</section>
